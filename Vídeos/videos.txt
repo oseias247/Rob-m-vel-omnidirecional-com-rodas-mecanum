@@ -1,2 +1,2 @@
 Aqui temos os vídos do robô funcionando em diferentes modos
-e com o controle com sensor de movimento
+e com o controle com sensor de movimento.

@@ -1,4 +1,2 @@
 Esse repositório tem como objetivo armazenar códigos, vídeos e demais arquivos relacionados ao projeto
-robô móvel omnidirecional com rodas mecanum
-
-
+robô móvel omnidirecional com rodas mecanum, desenvolvido para a diciplina de laboratório 1 da faculdade IMPA-Tech
